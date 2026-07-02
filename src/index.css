@@ -1,0 +1,271 @@
+body {
+  background-color: white !important;
+}
+.navbar {
+  background-color: white !important;
+}
+.nav-link {
+  color: black !important;
+  font-weight: 400 !important;
+  font-size: 20px !important;
+}
+.navbtn {
+  border-radius: 25px !important;
+  padding: 10px 20px !important;
+  margin-top: 13px !important;
+  background-color: rgb(117, 222, 219);
+  border: none !important;
+  color: white !important;
+}
+.nav-link:hover {
+  color:  rgb(117, 222, 219) !important;
+}
+.container {
+  margin: auto !important;
+  width: 80% !important;
+}
+.navbtn:hover {
+  transform: scale(1.1) !important;
+  background-color: white !important;
+  color: black !important;
+  border: 2px solid  rgb(117, 222, 219) !important;
+  font-weight: 450 !important;
+}
+.navbar-nav {
+  margin-left: 150px !important;
+}
+.intro {
+  margin-top: 80px !important;
+  text-align: center !important;
+}
+.intro p {
+  font-size: 20px !important;
+}
+.synti {
+  color: rgb(41, 178, 178) !important;
+}
+.syntclr{
+  background-color:  rgb(221, 233, 233) !important;
+  padding-bottom: 20px !important;
+  padding-top: 20px !important;
+}
+.card-body i {
+  color: rgba(1, 128, 124, 0.642) !important;
+}
+.swiper {
+  width: 100%;
+  height: 80vh !important;
+}
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain !important;
+}
+body {
+  position: relative;
+  height: 100%;
+}
+body {
+  background: white !important;
+  font-family:
+    Helvetica Neue,
+    Helvetica,
+    Arial,
+    sans-serif;
+  font-size: 14px;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+.swiper-button-prev {
+  display: none !important;
+}
+.swiper-button-next {
+  display: none !important;
+}
+.experience {
+  text-align: center !important;
+  padding-top: 50px !important;
+  padding-bottom: 80px !important;
+}
+.experience h1 {
+  font-weight: 500 !important;
+}
+.get {
+  display: flex !important;
+  justify-content: space-around !important;
+}
+.last ul li {
+list-style-type: none !important;
+margin: 0 !important;
+padding: 0 !important;
+}
+.graph {
+  object-fit: contain !important;
+}
+.ficons {
+  padding: 10px 15px 10px 15px !important;
+  background-color: white !important;
+  border-radius: 50% !important;
+  margin-left: 5px !important;
+  margin-top: 10px !important;
+  color:  rgb(41, 178, 178) !important;
+  border: 1px solid rgb(41, 178, 178) !important;
+}
+.ficons:hover {
+color: white !important;
+background-color:  rgb(41, 178, 178) !important;
+}
+.containerr {
+  width: 70% !important;
+  margin: auto !important;
+}
+.intro h1 {
+  font-weight: 500 !important;
+}
+.graphs h1{
+  font-weight: 500 !important;
+}
+.latest h1{
+  text-align: center !important;
+  font-weight: 400 !important;
+}
+.designed {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.syntclrf{
+  background-color:  rgb(168, 206, 206) !important;
+  padding-top: 30px !important;
+  padding-bottom: 10px;
+}
+.latest {
+  margin-top: 80px !important;
+}
+.blogs {
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+.blog1 {
+  border-radius: 10px;
+}
+.blog1text {
+padding-top: 15px;
+}
+.blogs1 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.latestone {
+  height: 120vh !important;
+}
+.need {
+  display: flex !important;
+  justify-content: space-around !important;
+  margin-top: 70px !important;
+}
+.containern {
+  width: 70% !important;
+  margin: auto !important;
+}
+.plan{
+  margin-top: 90px !important;
+  margin-bottom: 50px !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  /* gap: 30px !important; */
+}
+.plan li {
+  list-style-type: none !important;
+}
+.pricing {
+  width: 370px;
+  background: white;
+  padding: 20px !important;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1) !important;
+  transition: 0.3s !important;
+  border-radius: 10px !important;
+  transform: scaley(1.0) !important;
+}
+.pricing:hover {
+  transform: scale(1.1) !important;
+}
+.plan .p {
+  font-weight: 400 !important;
+}
+.contact {
+  font-weight: 400 !important;
+}
+.check {
+  transition: 0.3s ease,color 0.3s ease !important;
+  /* font-size: 40px !important; */
+}
+.check:hover {
+  transform: scale(1.1) !important;
+  color: rgb(16, 16, 17) !important;
+}
+.faqs {
+  margin-top: 90px !important;
+  margin-bottom: 50px !important;
+}
+.questions {
+  border: 2px solid #fff !important;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1) !important;
+  padding: 30px !important;
+  margin: 10px !important;
+  transition: 0.3s !important;
+}
+.questions:hover {
+  transform: scale(1.1) !important;
+}
+.faqs h1 {
+  font-weight: 400 !important;
+}
+.iconfa {
+  color:  rgb(41, 178, 178) !important;
+}
+.contactlist a:hover {
+  color:  rgb(41, 178, 178) !important;
+}
+
+@media screen and (min-width:320px) and (max-width:460px) {
+  .get {
+    display: block !important;
+  }
+  .containerr {
+  width: 40vh !important;
+  margin: auto !important;
+  padding: 10px !important;
+}
+.pricing {
+  width: 270px !important;
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+}
+.need {
+    display: block !important;
+  }
+  .containern {
+  width: 40vh !important;
+  margin: auto !important;
+  padding: 10px !important;
+}
+.get1 img {
+  width: 100% !important;
+}
+.designed {
+  text-align: left !important;
+  font-size: 32px !important;
+}
+}
+
