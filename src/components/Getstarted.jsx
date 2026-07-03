@@ -4,7 +4,7 @@ function Getstarted() {
             <div className="containerr rounded shadow mb-5">
                 <div className="get pt-3 pb-5">
                     <div className="get1">
-                       <img src="/public/gstarted.svg"/>
+                       <img src="/gstarted.svg"/>
                     </div>
                     <div className="get2">
                         <h2>Ready to get started?</h2>

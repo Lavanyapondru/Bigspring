@@ -26,9 +26,9 @@ function Graph() {
         modules={[Autoplay, Pagination, Navigation]}
         className="mySwiper"
       >
-        <SwiperSlide><img src='/public/service-slide-1.png' className="d-block graph w-100 img-fluid" alt="Bootstrap Themes"  loading="lazy"/></SwiperSlide>
-        <SwiperSlide><img src='/public/service-slide-2.png' className="d-block graph img-fluid" alt="Bootstrap Themes" width="500" height="600" loading="lazy"/></SwiperSlide>
-        <SwiperSlide><img src='/public/service-slide-3.png' className="d-block graph img-fluid" alt="Bootstrap Themes" width="500" height="600" loading="lazy"/></SwiperSlide>
+        <SwiperSlide><img src='/service-slide-1.png' className="d-block graph w-100 img-fluid" alt="Bootstrap Themes"  loading="lazy"/></SwiperSlide>
+        <SwiperSlide><img src='/service-slide-2.png' className="d-block graph img-fluid" alt="Bootstrap Themes" width="500" height="600" loading="lazy"/></SwiperSlide>
+        <SwiperSlide><img src='/service-slide-3.png' className="d-block graph img-fluid" alt="Bootstrap Themes" width="500" height="600" loading="lazy"/></SwiperSlide>
        
       </Swiper>
           </div>
@@ -46,7 +46,7 @@ function Graph() {
         <div className="row flex-lg-row align-items-center pt-5 pb-5">
           <div className="col-lg-6 col-md-6">
             <img
-              src="service-slide-1.png"
+              src="/service-slide-1.png"
               className="d-block mx-lg-auto img-fluid"
               alt="Bootstrap Themes"
               width="700"
@@ -112,9 +112,9 @@ function Graph() {
         modules={[Autoplay, Pagination, Navigation]}
         className="mySwiper"
       >
-        <SwiperSlide> <img src="service-slide-1.png" class="d-block graph img-fluid" alt="Bootstrap Themes" width="1000" height="500" loading="lazy"/></SwiperSlide>
-        <SwiperSlide><img src='/public/service-slide-2.png' className='graph'/></SwiperSlide>
-        <SwiperSlide><img src='/public/service-slide-3.png' className='graph'/></SwiperSlide>
+        <SwiperSlide> <img src="/service-slide-1.png" class="d-block graph img-fluid" alt="Bootstrap Themes" width="1000" height="500" loading="lazy"/></SwiperSlide>
+        <SwiperSlide><img src='/service-slide-2.png' className='graph'/></SwiperSlide>
+        <SwiperSlide><img src='/service-slide-3.png' className='graph'/></SwiperSlide>
        
       </Swiper>
           </div>

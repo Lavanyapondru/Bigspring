@@ -4,7 +4,7 @@ function Need() {
              <div className="containern rounded-xl shadow mb-5 mt-3">
                 <div className="need mt-3 mb-3 p-3">
                     <div className="get1">
-                       <img src="/public/gstarted.svg"/>
+                       <img src="/gstarted.svg"/>
                     </div>
                     <div className="get2">
                         <h2>Need a larger plan?</h2>

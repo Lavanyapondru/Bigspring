@@ -6,16 +6,6 @@ function Contact() {
             <h1 className="contact display-4 text-center">Contact Us</h1>
           <div className="col-md-10 mx-auto col-lg-7">
             <form className="p-4">
-              {/* Name Input */}
-              {/* <div className="form-floating mb-3">
-                <input
-                  type="text"
-                  className="form-control"
-                  id="floatingName"
-                  placeholder="John Doe"
-                />
-                <label htmlFor="floatingName">Enter Your Name</label>
-              </div> */}
               <input type="text" className="form-control w-100 p-3 mb-3 rounded-2 bg-light border-none" placeholder="Enter your Name"></input>
               <input type="text" className="form-control w-100 p-3 mb-3 rounded-2 bg-light border-none" placeholder="Enter your email address"></input>
               <input type="text" className="form-control w-100 p-3 mb-3 rounded-2 bg-light border-none" placeholder="Subject"></input>

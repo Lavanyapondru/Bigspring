@@ -8,7 +8,7 @@ function Latest() {
                 </div>
                 <div className="row blogs">
                     <div className="col-lg-6">
-                        <img src="/public/blog-1.jpg" className="blog1 w-100"/>
+                        <img src="/blog-1.jpg" className="blog1 w-100"/>
                     </div>
                     <div className="col-lg-6 blog1text">
                         <h2><a href="" className="text-decoration-none text-dark">Adversus is a web-based dialer and practical CRM solution</a></h2>
@@ -18,17 +18,17 @@ function Latest() {
                 </div>
                 <div className="row blogs1">
                     <div className="col-lg-4">
-                        <img src="/public/blog-1.jpg"className="w-100 blog1"/>
+                        <img src="/blog-1.jpg"className="w-100 blog1"/>
                         <h2><a href="" className="text-decoration-none text-dark">How to make toys from old Olarpaper</a></h2>
                         <button className="navbtn fw-bold me-5" type="submit">Read More</button>
                     </div>
                     <div className="col-lg-4">
-                        <img src="/public/blog-2.jpg"className="w-100 blog1"/>
+                        <img src="/blog-2.jpg"className="w-100 blog1"/>
                         <h2><a href="" className="text-decoration-none text-dark">What you need to know about photography</a></h2>
                         <button className="navbtn fw-bold me-5" type="submit">Read More</button>
                     </div>
                     <div className="col-lg-4">
-                        <img src="/public/blog-3.jpg"className="w-100 blog1"/>
+                        <img src="/blog-3.jpg"className="w-100 blog1"/>
                         <h2><a href="" className="text-decoration-none text-dark">How to make toys from old Olarpaper</a></h2>
                         <button className="navbtn fw-bold me-5" type="submit">Read More</button>
                     </div>
@@ -39,7 +39,7 @@ function Latest() {
                 <div className="container">
                 <div className="row blogs">
                     <div className="col-lg-6">
-                        <img src="/public/blog-4.jpg" className="blog1 w-100"/>
+                        <img src="/blog-4.jpg" className="blog1 w-100"/>
                     </div>
                     <div className="col-lg-6 blog1text">
                         <h2><a href="" className="text-decoration-none text-dark">What you need to know about photography</a></h2>

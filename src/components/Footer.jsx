@@ -30,7 +30,7 @@ function Footer() {
     </ul>
     </div>
     <div className="col-lg-3 col-md-6 text-secondary mt-3">
-      <img src="/public/logoimg.png"/>
+      <img src="/logoimg.png"/>
          <p>Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.</p>
         <small className="text-secondary">
       <a href="#"><i className="ficons btn bi bi-facebook  fs-6"></i></a>
