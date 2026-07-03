@@ -4,7 +4,7 @@ function Navbar() {
         <div>
              <nav className="navbar navbar-expand-md fixed-top">
       <div className="container">
-        <a className="navbar-brand" href="#"><img src='/public/logoimg.png'/></a>
+        <a className="navbar-brand" href="#"><img src='/logoimg.png'/></a>
         <button
           className="navbar-toggler"
           type="button"
