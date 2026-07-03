@@ -81,8 +81,8 @@ function Graph() {
         className="mySwiper"
       >
         <SwiperSlide> <img src="service-slide-1.png" class="d-block graph img-fluid" alt="Bootstrap Themes"  loading="lazy"/></SwiperSlide>
-        <SwiperSlide><img src='/public/service-slide-2.png' className='graph'/></SwiperSlide>
-        <SwiperSlide><img src='/public/service-slide-3.png' className='graph'/></SwiperSlide>
+        <SwiperSlide><img src='/service-slide-2.png' className='graph'/></SwiperSlide>
+        <SwiperSlide><img src='/service-slide-3.png' className='graph'/></SwiperSlide>
        
       </Swiper>
           </div>
