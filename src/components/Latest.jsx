@@ -4,7 +4,7 @@ function Latest() {
         <div>
             <div className="container">
                 <div className="latest">
-                <h1 className="display-4">Latest News</h1>
+                <h1 className="display-5">Latest News</h1>
                 </div>
                 <div className="row blogs">
                     <div className="col-lg-6">
@@ -19,17 +19,17 @@ function Latest() {
                 <div className="row blogs1">
                     <div className="col-lg-4">
                         <img src="/blog-1.jpg"className="w-100 blog1"/>
-                        <h2><a href="" className="text-decoration-none text-dark">How to make toys from old Olarpaper</a></h2>
+                        <h3><a href="" className="text-decoration-none text-dark">How to make toys from old Olarpaper</a></h3>
                         <button className="navbtn fw-bold me-5" type="submit">Read More</button>
                     </div>
                     <div className="col-lg-4">
                         <img src="/blog-2.jpg"className="w-100 blog1"/>
-                        <h2><a href="" className="text-decoration-none text-dark">What you need to know about photography</a></h2>
+                        <h3><a href="" className="text-decoration-none text-dark">What you need to know about photography</a></h3>
                         <button className="navbtn fw-bold me-5" type="submit">Read More</button>
                     </div>
                     <div className="col-lg-4">
                         <img src="/blog-3.jpg"className="w-100 blog1"/>
-                        <h2><a href="" className="text-decoration-none text-dark">How to make toys from old Olarpaper</a></h2>
+                        <h3><a href="" className="text-decoration-none text-dark">How to make toys from old Olarpaper</a></h3>
                         <button className="navbtn fw-bold me-5" type="submit">Read More</button>
                     </div>
                 </div>

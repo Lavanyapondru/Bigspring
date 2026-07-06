@@ -1,15 +1,15 @@
 function Contact() {
   return (
     <div>
-      <div className="container  py-5">
+      <div className="container contactus py-5">
         <div className="row align-items-center g-lg-5 py-5">
-            <h1 className="contact display-4 text-center">Contact Us</h1>
+            <h6 className="contact display-5 text-center">Contact Us</h6>
           <div className="col-md-10 mx-auto col-lg-7">
             <form className="p-4">
               <input type="text" className="form-control w-100 p-3 mb-3 rounded-2 bg-light border-none" placeholder="Enter your Name"></input>
               <input type="text" className="form-control w-100 p-3 mb-3 rounded-2 bg-light border-none" placeholder="Enter your email address"></input>
               <input type="text" className="form-control w-100 p-3 mb-3 rounded-2 bg-light border-none" placeholder="Subject"></input>
-              <textarea className="form-control w-100 p-3 mb-3 rounded-2 bg-light border-none" rows="5" placeholder="Subject"></textarea>
+              <textarea className="form-control w-100 p-3 mb-3 rounded-2 bg-light border-none" rows="5" placeholder="Message"></textarea>
 
 
 

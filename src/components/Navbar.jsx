@@ -24,7 +24,10 @@ function Navbar() {
             <li className="nav-item"><a className="nav-link active me-3 " aria-current="page" href="contact">Contact</a></li>
             <li className="nav-item"><a className="nav-link active me-3 " aria-current="page" href="faq">FAQ</a></li>
           </ul>
-            <button className="navbtn fw-bold me-5" type="submit">Get Started</button>
+            <div>
+            <button className="navbtnn fw-bold me-5" type="submit">Get Started</button>
+               
+            </div>
         
         </div>
       </div>

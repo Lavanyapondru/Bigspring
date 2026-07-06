@@ -24,7 +24,7 @@ function Synt() {
     </div>
   </div>
 
-  <div className="col-lg-4 col-md-6 mt-3 mb-sm-0">
+  <div className="col-lg-4 col-md-6 mb-sm-0">
     <div className="card">
       <div className="card-body">
         <i class="bi bi-person-plus fs-1"></i>

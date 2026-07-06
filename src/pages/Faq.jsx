@@ -7,7 +7,7 @@ function Faq() {
             <Navbar/>
             <div className="container">
                 <div className="faqs">
-                    <h1 className=" display-4 text-center mt-4 mb-5">Frequently Asked Questions</h1>
+                    <h3 className="display-5 text-center mt-4 mb-5">Frequently Asked Questions</h3>
                     <div className="row">
                         <div className="col-lg-6 cpl-md-6 faq mt-3 mb-3">
                             <div className="questions">
