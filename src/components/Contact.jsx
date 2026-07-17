@@ -18,16 +18,16 @@ function Contact() {
             </form>
           </div>
 
-          <div className="col-lg-5 text-center text-lg-start">
-            <h4 className="lh-1 text-body-emphasis mb-3">
+          <div className="col-lg-5 text-lg-start">
+            <h4 className="lh-1 text-body-emphasis mb-3 text-center">
              Why you should contact us!
             </h4>
             <p className="text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.</p>
-            <ul className="contactlist">
-                <li>phone: <a href="totel:+88 125 256 452" className="text-decoration-none text-dark fw-bold">+88 125 256 452</a></li>
-                <li>Mail: <a href="mailto:info@bigspring.com" className="text-decoration-none text-dark fw-bold">info@bigspring.com</a></li>
-                <li>Address: 360 Main rd, Rio, Brazil</li>
-            </ul>
+            <div className="contactlist">
+                <p className="lh-1">phone:<a href="totel:+88 125 256 452" className="text-decoration-none text-dark fw-bold">+88 125 256 452</a></p>
+                <p className="lh-1">Mail:<a href="mailto:info@bigspring.com" className="text-decoration-none text-dark fw-bold">info@bigspring.com</a></p>
+                <p className="lh-1">Address: 360 Main rd, Rio, Brazil</p>
+            </div>
           </div>
         </div>
       </div>

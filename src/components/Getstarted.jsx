@@ -6,7 +6,7 @@ function Getstarted() {
                     <div className="get1">
                        <img src="/gstarted.svg"/>
                     </div>
-                    <div className="get2">
+                    <div className="get2 m-5">
                         <h2>Ready to get started?</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br/>Consequat tristique eget amet, tempus eu at consecttur.</p>
                         <button className="navbtn fw-bold me-5" type="submit">Contact Us</button>

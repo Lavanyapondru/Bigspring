@@ -33,7 +33,7 @@ function Graph() {
       </Swiper>
           </div>
           <div className="col-lg-6 graphs">
-            <h1 className="display-5 fw-bold text-body-emphasis lh-1 mb-3">It is the most advanced digital marketing and it company.</h1>
+            <h1 className="display-5 fw-bold text-body-emphasis lh-1 mb-3 mt-5">It is the most advanced digital marketing and it company.</h1>
             <p className="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.</p>
             <a href='#' className='check fs-5 text-decoration-none'>Check It Out <i className="bi bi-arrow-right"></i></a>
           </div>
@@ -55,7 +55,7 @@ function Graph() {
             />
           </div>
           <div className="col-lg-6 col-md-6 graphs">
-            <h1 className="display-5 fw-bold text-body-emphasis lh-1 mb-3">It is a privately owned Information and cyber security company</h1>
+            <h1 className="display-5 fw-bold text-body-emphasis lh-1 mb-3 mt-5">It is a privately owned Information and cyber security company</h1>
             <p className="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.</p>
             <a href='#' className='check fs-5 text-decoration-none'>Check It Out <i className="bi bi-arrow-right"></i></a>            
           </div>
@@ -87,7 +87,7 @@ function Graph() {
       </Swiper>
           </div>
           <div className="col-lg-6 col-md-6 graphs">
-            <h1 className="display-5 fw-bold text-body-emphasis lh-1 mb-3">It’s a team of experienced and skilled people with distributions</h1>
+            <h1 className="display-5 fw-bold text-body-emphasis lh-1 mb-3 mt-5">It’s a team of experienced and skilled people with distributions</h1>
             <p className="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.</p>
             <a href='#' className='check text-decoration-none fs-5'>Check It Out <i className="bi bi-arrow-right"></i></a>
           </div>
@@ -119,7 +119,7 @@ function Graph() {
       </Swiper>
           </div>
           <div className="col-lg-6 col-md-6 graphs">
-            <h1 className="display-5 fw-bold text-body-emphasis lh-1 mb-3">It is the most advanced digital marketing and it company.</h1>
+            <h1 className="display-5 fw-bold text-body-emphasis lh-1 mb-3 mt-5">It is the most advanced digital marketing and it company.</h1>
             <p className="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.</p>
             <a href='#' className='check text-decoration-none fs-5'>Check It Out <i className="bi bi-arrow-right"></i></a>
           </div>
