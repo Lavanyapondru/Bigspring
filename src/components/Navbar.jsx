@@ -2,7 +2,7 @@ function Navbar() {
     return ( 
 
         <div>
-             <nav className="navbar navbar-expand-md fixed-top">
+             <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div className="container">
         <a className="navbar-brand" href="#"><img src='/logoimg.png'/></a>
         <button
